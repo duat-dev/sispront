@@ -13,5 +13,10 @@ Projeto acadêmico — UCSAL, Análise e Desenvolvimento de Sistemas.
 ## Stack prevista
 Spring Boot (back-end), HTML/CSS/JS (front-end) e banco de dados relacional.
 
+## Acompanhamento (Trello)
+Quadro com as user stories organizadas em A fazer, Fazendo e Feito:
+
+![Quadro do Trello](docs/img/trello-quadro.png)
+
 ## Documentação
-User stories e quadro de acompanhamento (Trello) — links em breve. O código-fonte será adicionado pelo time.
+O código-fonte será adicionado pelo time.
